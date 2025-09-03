@@ -42,6 +42,7 @@ MCPBench is an evaluation framework for MCP Servers. It supports the evaluation 
 - [🚰 Cite](#cite)
 
 # 🔥 News
++ `Sep. 1, 2025` 🌟 Modelscope AI hackathon will be hold on Sep. 23rd, ref: https://modelscope.cn/active/aihackathon-mcp-agent
 + `Apr. 29, 2025` 🌟 Update the code for evaluating the MCP Server Package within GAIA.
 + `Apr. 14, 2025` 🌟 We are proud to announce that MCPBench is now open-sourced.
 
